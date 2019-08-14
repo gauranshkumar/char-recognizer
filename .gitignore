@@ -9,7 +9,8 @@ instance/*
 __pycache__/
 *.py[cod]
 *$py.class
-
+# VSCODE
+.vscode/
 # C extensions
 *.so
 
@@ -120,7 +121,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+.gitignore
 # mypy
 .mypy_cache/
 .dmypy.json
