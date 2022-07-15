@@ -11,7 +11,7 @@ dask==2.2.0
 decorator==4.4.0
 defusedxml==0.6.0
 diff-match-patch==20181111
-distributed==2.2.0
+distributed==2021.10.0
 entrypoints==0.3
 et-xmlfile==1.0.1
 fastcache==1.1.0
